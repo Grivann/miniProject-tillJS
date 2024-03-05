@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+#big{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 150px;
+    width: 150px;
+    border-radius: 16%;
+    margin: 30px;
+    border: 10px solid black;
+    display: inline-block;
+    
+
+}
+.green{
+    background-color: forestgreen;
+}
+.coral{
+    background-color: coral;
+}
+.red{
+    background-color: crimson;
+}
+.blue{
+    background-color: cornflowerblue;
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
